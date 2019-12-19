@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  case 
+  case array.length
+  when < 2
 end
