@@ -1,4 +1,6 @@
 def oxford_comma(array)
   case array.length
-  when < 2
+  when 1
+    "#{array}"
+    when 
 end
